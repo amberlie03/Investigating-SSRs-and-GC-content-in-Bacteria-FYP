@@ -33,6 +33,7 @@ Required libraries:
 ### Clone the Repository
 To get started, the repository must be cloned to the local machine:
 
+```bash
 git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
 
 ### Summary 
