@@ -43,6 +43,6 @@ For example, replace `zip_path = '/Path/to/downloaded/zipfiles.zip'` with the lo
 
 Zip file and SSR extraction code: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/edit/main/README.md#:~:text=Extracting-,SSRs,-.ipynb 
 
-The given code was repeated for each genome and compiled into one large csv: 
+The given code was repeated for each genome and compiled into one large csv: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/tree/main#:~:text=11%20minutes%20ago-,FYP_data.csv,-Add%20files%20via 
 
 Extracted SSRs were extracted and compiled into text files for each genome. The SSRs for this project are detailed in the following link: 
