@@ -16,8 +16,8 @@ This project involves the analysis of bacterial genome sequences to study the di
 
 ### Prerequisites
 To run the code, you will need:
-- Genome sequences downloaded from NCBI Database in FASTA format as ZIP files (https://www.ncbi.nlm.nih.gov/datasets/genome/)
-  The following link contains the one hundred genome files used in this project: https://github.com/amberlie03/Input-Files 
+- Genome sequences downloaded from NCBI Database in FASTA format as ZIP files ([https://www.ncbi.nlm.nih.gov/datasets/genome/])
+  The following link contains the one hundred genome files used in this project: [https://github.com/amberlie03/Input-Files]
 - Python 3.x (any version that supports Jupyter Notebook)
 - Jupyter Notebook (or JupyterLab)
 
@@ -41,8 +41,8 @@ git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
 First, clone the repository and install the required libraries using `pip install`. Then, set up a virtual environment and adjust code to fit with own directories. 
 For example, replace `zip_path = '/Path/to/downloaded/zipfiles.zip'` with the location where the input genome files are saved. 
 
-Zip file and SSR extraction code: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/edit/main/README.md#:~:text=Extracting-,SSRs,-.ipynb 
+Zip file and SSR extraction code: [https://github.com/amberlie03/Genome-SSR-Analysis-FYP/Extracting SSRs.ipynb]
 
-The given code was repeated for each genome and compiled into one large csv: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/tree/main#:~:text=11%20minutes%20ago-,FYP_data.csv,-Add%20files%20via 
+The given code was repeated for each genome and compiled into one large csv: [https://github.com/amberlie03/Genome-SSR-Analysis-FYP/FYP_data.csv]
 
 Extracted SSRs were extracted and compiled into text files for each genome. The SSRs for this project are detailed in the following link: 
