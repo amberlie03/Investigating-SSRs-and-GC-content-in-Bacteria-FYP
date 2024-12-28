@@ -25,7 +25,7 @@ To run the code, you will need:
 Required libraries:
 - File handling using `zipfile`, `os`, and `shutil`
 - Data preprocessing using `pandas` and `numpy`
-- Regular expression `re`
+- Regular expression to identify SSRs `re`
 - Read GenBank using `bio from seqI0`
 - Data visulaisation using `csv`, `matplotlib`, and `seaborn`
 - Model training and evaluation using `scikit-learn`
