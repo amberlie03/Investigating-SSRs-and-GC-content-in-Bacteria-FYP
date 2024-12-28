@@ -35,6 +35,7 @@ To get started, the repository must be cloned to the local machine:
 
 ```bash
 git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
+```
 
 ### Summary 
 First, clone the repository, then install the required libraries using `pip install`. Finally, set up a virtual environment to run code. 
