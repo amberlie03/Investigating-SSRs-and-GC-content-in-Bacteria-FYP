@@ -49,6 +49,6 @@ The given code was repeated for each genome and compiled into one large csv: htt
 Extracted SSRs were extracted and compiled into text files for each genome: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Extracted_SSRs.zip
 
 Control variables in this project consisted of five random genomes, randomised one hundred times and SSRs extracted each iteration: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Controls.ipynb
-  Control data results csv: 
+  Control data results csv: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Control%20Data.csv
 
-Data analysis involved identifying and categorising SSRs, visualising the data and performing statistical tests: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Data%20Analysis.ipynb 
+Data analysis involved identifying and categorising SSRs, visualising the data, and performing statistical tests: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Data%20Analysis.ipynb 
