@@ -22,13 +22,13 @@ To run the code, you will need:
 - Jupyter Notebook (or JupyterLab)
 
 Required libraries:
-- File handling using 'zipfile', 'os', and 'shutil'
-- Data preprocessing using 'pandas' and 'numpy'
-- Regular expression 're'
-- Read GenBank using 'bio from seqI0'
-- Data visulaisation using 'csv', 'matplotlib', and 'seaborn'
-- Model trainign and evaluation using 'scikit-learn'
-- Statistical analysis using 'scipy.stats'
+- File handling using `zipfile`, `os`, and `shutil`
+- Data preprocessing using `pandas` and `numpy`
+- Regular expression `re`
+- Read GenBank using `bio from seqI0`
+- Data visulaisation using `csv`, `matplotlib`, and `seaborn`
+- Model training and evaluation using `scikit-learn`
+- Statistical analysis using `scipy.stats`
 
 ### Clone the Repository
 To get started, the repository must be cloned to the local machine:
@@ -36,5 +36,5 @@ To get started, the repository must be cloned to the local machine:
 git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
 
 ### Summary 
-Firstly clone the repository, then install the required libraries using `pip`. Then set up a virtual environment to run code. 
+First, clone the repository, then install the required libraries using `pip install`. Finally, set up a virtual environment to run code. 
  
