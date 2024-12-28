@@ -30,9 +30,11 @@ Required libraries:
 - Model trainign and evaluation using 'scikit-learn'
 - Statistical analysis using 'scipy.stats'
 
-### 1. Clone the Repository
+### Clone the Repository
 To get started, the repository must be cloned to the local machine:
 
-'''bash
 git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
+
+### Summary 
+Firstly clone the repository, then install the required libraries using `pip`. Then set up a virtual environment to run code. 
  
