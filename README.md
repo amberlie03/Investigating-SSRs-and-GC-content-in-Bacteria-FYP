@@ -45,4 +45,4 @@ Zip file and SSR extraction code: https://github.com/amberlie03/Genome-SSR-Analy
 
 The given code was repeated for each genome and compiled into one large csv: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/FYP_data.csv
 
-Extracted SSRs were extracted and compiled into text files for each genome. The SSRs for this project are detailed in the following link: 
+Extracted SSRs were extracted and compiled into text files for each genome: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Extracted_SSRs.zip
