@@ -41,7 +41,7 @@ git clone https://github.com/amberlie03/Genome-SSR-Analysis-FYP
 First, clone the repository and install the required libraries using `pip install`. Then, set up a virtual environment and adjust code to fit with own directories. 
 For example, replace `zip_path = '/Path/to/downloaded/zipfiles.zip'` with the location where the input genome files are saved. 
 
-Zip file and SSR extraction code: Extracting_SSRs.ipynb
+Zip file and SSR extraction code: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/Extracting_SSRs.ipynb
 
 The given code was repeated for each genome and compiled into one large csv: https://github.com/amberlie03/Genome-SSR-Analysis-FYP/blob/main/FYP_data.csv
 
